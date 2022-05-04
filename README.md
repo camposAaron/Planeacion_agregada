@@ -1,2 +1,2 @@
-## Prueba tecnica 
-correr script con `node dist/Prueba.js`
+
+ probar con el comando : `node dist/PlaneacionAgregada.js`
