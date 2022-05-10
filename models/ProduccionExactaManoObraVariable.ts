@@ -88,6 +88,6 @@ export class ProduccionExactaManoObraVariable{
     public set RequerimientoProducccion(value: number) {
         this._RequerimientoProducccion = value;
     }
-
-
 }
+
+
